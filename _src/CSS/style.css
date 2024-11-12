@@ -1,0 +1,12 @@
+/* Body Styling */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+
+/* Lists */
+ul, ol {
+    margin-left: 20px;
+}
