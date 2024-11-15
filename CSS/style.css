@@ -1,12 +1,32 @@
 /* Body Styling */
 body {
     font-family: 'Georgia', serif;
-    background-color: #f4f4f4;
-    margin: 20px;
+    background-color: #fafafa;
+    max-width: 900px;
+    padding: 15px;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #AA336A;
+    text-align: center;
+}
+.cat {
+
+    margin: 20px auto;
+    width: 150px;
+}
+nav {
+    background-color: #AA336A;
+    padding: 5px;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    margin: 50px;
+
 }
 
 
-/* Lists */
-ul, ol {
-    margin-left: 20px;
-}
+
+
