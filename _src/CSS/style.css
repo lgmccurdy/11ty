@@ -26,7 +26,22 @@ nav a {
     margin: 50px;
 
 }
+div.flex {display: flex;
+    justify-content:space-evenly;
+    width:60vw;
 
+}
 
+div.flex img {
+    max-width:200px;
+    width:80%;}
+
+div#footer {
+    width:80%;
+    margin:auto;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
 
 

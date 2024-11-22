@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "cat.png",
+    "filepath": "images/cat.png"
+  },
+  {
+    "filename": "dogs.jpg",
+    "filepath": "images/dogs.jpg"
+  },
+  {
+    "filename": "sunflower.jpg",
+    "filepath": "images/sunflower.jpg"
+  },
+  {
+    "filename": "vase.jpg",
+    "filepath": "images/vase.jpg"
+  }
+]
